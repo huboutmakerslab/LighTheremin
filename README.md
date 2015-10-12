@@ -1,0 +1,2 @@
+# LighTheremin
+Uno strumento musicale che tramite l'intensità luminosa modifica i suoni prodotti. E' di facile costruzione attraverso un kit dotato di scheda Arduino™ , una scatola tagliata a laser,  componenti elettroniche e uno shield a cui saldarle.  E' un progetto che permette anche ai più piccoli di iniziare ad usare Arduino™ in modo divertente, costruendo uno strumento poi utilizzabile per suonare semplici melodie.
